@@ -1,5 +1,5 @@
-
 🪙 Java Expense Tracker
+
 Hi! This is my first full desktop application built using Java. I created this project to learn how to build real-world software with a Graphical User Interface (GUI) and how to save data into files.
 
 📖 About the Project
@@ -45,28 +45,12 @@ Download all the .java files into one folder.
 
 2. Compile the code
 Open your terminal or command prompt inside that folder and type:
-
-code
-Bash
-
-download
-
-content_copy
-
-expand_less
 javac *.java
-3. Run the app
+
+4. Run the app
 After compiling, type:
-
-code
-Bash
-
-download
-
-content_copy
-
-expand_less
 java ExpenseTrackerGUI
+
 Note: You need to have Java (JDK) installed on your computer to run this!
 
 📊 Where is my data?
